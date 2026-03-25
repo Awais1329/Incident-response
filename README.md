@@ -29,8 +29,4 @@ A well-defined IR process, such as the **NIST Incident Response Lifecycle**, pro
 
 ### Let's Defend
 
-*Coming soon*
 
----
-
-*Last Updated: March 25, 2026*
