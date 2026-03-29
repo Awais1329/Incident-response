@@ -26,8 +26,8 @@ A well-defined IR process, such as the **NIST Incident Response Lifecycle**, pro
 | Room Name | Description | Link |
 |-----------|-------------|------|
 | Incident Response Process | Practiced the NIST Incident Response lifecycle steps on a compromised Windows workstation | [Room](https://tryhackme.com/room/incidentresponseprocess?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68664c9f11e540f46dd539e2) |
-| IR Playbooks | Executed NIST-based incident response and threat investigation on a compromised Windows system | [room](https://tryhackme.com/room/irplaybooks?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68664c9f11e540f46dd539e2) |
-|Incident Management 101 | Conducted SOC alert triage, incident handling, and escalation following NIST framework| [room](https://app.letsdefend.io/training/lessons/incident-management-101) |
-|Identification & Scoping  | Incident detection and scope analysis (IR phase)| [ room](https://app.letsdefend.io/training/lessons/incident-management-101) |
-|Preparation of Incident Response  | Learned how to prepare systems, logging, and response processes before a cyber incident occurs.| [room](https://tryhackme.com/room/preparation) 
+| IR Playbooks | Executed NIST-based incident response and threat investigation on a compromised Windows system | [Room](https://tryhackme.com/room/irplaybooks?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68664c9f11e540f46dd539e2) |
+|Incident Management 101 | Conducted SOC alert triage, incident handling, and escalation following NIST framework| [Room](https://app.letsdefend.io/training/lessons/incident-management-101) |
+|Identification & Scoping  | Incident detection and scope analysis (IR phase)| [ Room](https://app.letsdefend.io/training/lessons/incident-management-101) |
+|Preparation of Incident Response  | Learned how to prepare systems, logging, and response processes before a cyber incident occurs.| [Room](https://tryhackme.com/room/preparation) 
 
